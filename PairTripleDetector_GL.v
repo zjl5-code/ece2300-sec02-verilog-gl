@@ -1,11 +1,11 @@
 //========================================================================
-// PairTripleDetectorGL
+// PairTripleDetector_GL
 //========================================================================
 
 `ifndef PAIR_TRIPLE_DETECTOR_GL_V
 `define PAIR_TRIPLE_DETECTOR_GL_V
 
-module PairTripleDetectorGL
+module PairTripleDetector_GL
 (
   input  wire in0,
   input  wire in1,

@@ -1,8 +1,8 @@
 //========================================================================
-// PairTripleDetectorGL_adhoc
+// PairTripleDetector_GL_adhoc
 //========================================================================
 
-`include "PairTripleDetectorGL.v"
+`include "PairTripleDetector_GL.v"
 
 module Top();
 
@@ -18,7 +18,7 @@ module Top();
   // Instantiate the design-under-test (DUT) and hook up the ports to the
   // logic signals we just declared.
 
-  PairTripleDetectorGL dut
+  PairTripleDetector_GL dut
   (
     .in0 (dut_in0),
     .in1 (dut_in1),
