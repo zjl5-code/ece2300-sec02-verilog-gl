@@ -17,6 +17,7 @@ admin/work*
 *.swp
 *-adhoc
 *-test
+*-test.sh
 *.vcd
 .vscode/
 .vscode/*

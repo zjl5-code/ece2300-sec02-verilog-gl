@@ -2,7 +2,7 @@
 // PairTripleDetector_GL-test
 //========================================================================
 
-`include "ece2300-stdlib.v"
+`include "ece2300-test.v"
 `include "PairTripleDetector_GL.v"
 
 module Top();
